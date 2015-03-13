@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C81C76F9-2D53-4490-81A8-D2511D11C441</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DirtyPig</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1F90F34966F442AF58785BBA1334413A080362B9</key>
+		<string>https://github.com/lolagin/WarPigz-LHL-friday13-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DirtyPig.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1F90F34966F442AF58785BBA1334413A080362B9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lolagin/WarPigz-LHL-friday13-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1F90F34966F442AF58785BBA1334413A080362B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1F90F34966F442AF58785BBA1334413A080362B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DirtyPig</string>
+		</dict>
+	</array>
+</dict>
+</plist>

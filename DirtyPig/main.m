@@ -7,11 +7,21 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "NSString+Latinizer.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        NSLog(@"Hello, World!");
+     
+        
+        NSString *lul = @"This is the words i wrote";
+        NSString *newlul = [lul stringByPigLatinization];
+        
+        NSLog(lul);
+//        NSLog(@"hello swine! enter some words and i will translate them into an unbreakable code like in that film about  bingledip Brindlesnatch");
+        NSLog(@"%@", newlul);
+        
+        
     }
     return 0;
 }
